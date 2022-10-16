@@ -8,6 +8,7 @@ If you are using x86-64 router, you can find the firmware in the project.
 Enjoy!
 
 Default Admin IP: 192.168.1.1
+
 Default Router Port: LAN1
 
 
