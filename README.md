@@ -13,6 +13,6 @@ Enjoy!
 
 
 
-thanks @yicha for https://github.com/yichya/luci-app-xray
+thanks @yichya for https://github.com/yichya/luci-app-xray
 
 
