@@ -6,9 +6,9 @@ The firmware already integrated luci-app-xray, can be used for xray. Compiled wi
 If you are using x86-64 router, you can find the firmware in the project.
 
 
-Default Admin IP: 192.168.1.1
+admin ip: 192.168.1.1
 
-Default Router Port: LAN1
+router port: LAN1
 
 Enjoy!
 
