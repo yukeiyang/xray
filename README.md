@@ -7,7 +7,6 @@ If you are using x86-64 router, you can find the firmware in the project.
 
 
 admin ip: 192.168.1.1
-
 router port: LAN1
 
 Enjoy!
