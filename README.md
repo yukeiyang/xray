@@ -3,7 +3,7 @@ luci-app-xray integrated in openwrt-x86-64
 
 Integrated luci-app-xray, can be used for xray. If you are using x86-64 router, you can find the firmware in this project.
 
-It's clean, and integrates only these more 6 pakakges: luci, irqbalance, xray-core, geoip, geosite, luci-app-xray.
+It's clean, and only integrates these more 6 pakakges: luci, irqbalance, xray-core, geoip, geosite, luci-app-xray.
 
 Already tested on x86-64 router, and works fine.
 
