@@ -14,6 +14,6 @@ Enjoy!
 
 
 
-thanks @yichya for the brilliant repo in https://github.com/yichya/luci-app-xray
+thanks @yichya for the brilliant works in https://github.com/yichya/luci-app-xray
 
 
