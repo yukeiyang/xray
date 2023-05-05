@@ -5,20 +5,15 @@ Integrated luci-app-xray, can be used for xray. If you are using x86-64 router, 
 
 It's clean, and only integrates these more 6 pakakges: luci, irqbalance, xray-core, geoip, geosite, luci-app-xray.
 
-Already tested on x86-64 router, and works fine.
+Already tested on x86-64 router, and works fine.  
+Please adjust the lan port & wan port by youself then when you login into the router.  
 
-admin ip: 192.168.1.1  
+default admin ip: 192.168.1.1  
 default lan port: LAN1  
 user: root  
 password: (none)  
 
-You can adjust the lan port & wan port by youself then when you login into the router.  
-
-
 Enjoy!
-
-
-
 
 thanks @yichya for the brilliant works in https://github.com/yichya/luci-app-xray
 
