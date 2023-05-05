@@ -1,5 +1,4 @@
-# openwrt x86-64 firmware with luci-app-xray integrated
-luci-app-xray integrated in openwrt-x86-64  
+# openwrt x86-64 firmware with luci-app-xray integrated  
 
 It's clean, and only integrates these 6 packages: luci, irqbalance, xray-core, geoip, geosite, luci-app-xray.  
 Please adjust lan port & wan port by youself when you login into the router.  
