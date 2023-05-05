@@ -7,7 +7,13 @@ It's clean, and only integrates these more 6 pakakges: luci, irqbalance, xray-co
 
 Already tested on x86-64 router, and works fine.
 
-admin ip: 192.168.1.1; router port: LAN1
+admin ip: 192.168.1.1 
+default lan port: LAN1  
+user: root  
+password: (none)  
+
+You can adjust the lan port & wan port by youself then when you login into the router.  
+
 
 Enjoy!
 
