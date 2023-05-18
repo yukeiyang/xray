@@ -1,6 +1,7 @@
 # openwrt x86-64 firmware with luci-app-xray integrated  
 
-It's clean, integrates 6 packages only, luci, irqbalance, xray-core, v2ray-geosite, v2ray-geoip, luci-app-xray.   
+It's clean, just integrates 6 packages only, luci, irqbalance, xray-core, v2ray-geosite, v2ray-geoip, luci-app-xray.   
+
 Please adjust lan port & wan port by youself when you login into the router.  
 
 default admin ip: 192.168.1.1  
