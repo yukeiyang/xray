@@ -2,7 +2,7 @@
 
 It's clean, just integrates 6 packages only, luci, irqbalance, xray-core, v2ray-geosite, v2ray-geoip, luci-app-xray.   
 
-Please adjust and switch lan/wan port when login to the router.  
+Please adjust and switch lan / wan port when you login to the router.  
 
 default admin ip: 192.168.1.1  
 default lan port: LAN1  
