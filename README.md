@@ -2,7 +2,7 @@
 
 It's clean, integrates 6 packages only, luci, irqbalance, xray-core, v2ray-geosite, v2ray-geoip, luci-app-xray.   
 
-You should adjust & switch lan/wan port after you flash this firmware on your x86 router.  
+You should adjust and switch lan/wan port after you flash this firmware on your x86 router.  
 
 admin ip: 192.168.1.1  
 lan port: LAN1  
