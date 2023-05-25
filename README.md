@@ -1,16 +1,18 @@
 # openwrt x86-64 firmware with luci-app-xray integrated  
 
-It's clean, integrates 6 packages only, luci, irqbalance, xray-core, v2ray-geosite, v2ray-geoip, luci-app-xray.   
+This is a firmware based on openwrt x86-64, with luci-app-xray plugin integrated.  
+It is very simple, containing only 6 packages: luci, irqbalance, xray-core, v2ray-geosite, v2ray-geoip, luci-app-xray.  
 
-You should adjust and switch lan/wan port after you flash this firmware on your x86 router.  
+After flashing this firmware, you need to adjust and switch lan/wan ports according to your router situation.
 
-admin ip: 192.168.1.1  
-lan port: LAN1  
-user: root  
-password: (none)  
+Management IP: 192.168.1.1
+lan port: LAN1
+Username: root
+Password: (none)
 
-Enjoy!
+Hope you enjoy using it!
 
-thanks @yichya for the brilliant works in https://github.com/yichya/luci-app-xray
+Thanks to @yichya for the excellent work at https://github.com/yichya/luci-app-xray.
+
 
 
