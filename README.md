@@ -4,7 +4,7 @@ This is a firmware based on openwrt x86-64, with luci-app-xray plugin integrated
   
 It is very clean, containing only extra 6 packages: luci, irqbalance, xray-core, v2ray-geosite, v2ray-geoip, luci-app-xray.  
   
-After flashing this firmware, you need to adjust and switch lan/wan ports according to your router situation.  
+After flashing this firmware, you need to adjust and switch lan/wan ports according to your router situation. Or, you can also check **Keep settings and retain the current configuration** during the **Flash Image** process to upgrade without having to adjust your original port configuration.
 
 Management IP: 192.168.1.1  
 lan port: LAN1  
