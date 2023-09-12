@@ -6,11 +6,19 @@ It is clean, containing extra 6 packages only: luci, irqbalance, xray-core, v2ra
   
 After flashing this firmware, you need to adjust and switch lan/wan ports according to your router situation. Or, you can also choose *Keep settings and retain the current configuration* during the *Flash Image* process to upgrade without having to adjust your original port configuration.
 
+Management IP: 192.168.2.1  
+wan port: LAN1  
+Username: root  
+Password: (none)  
+
+```
+If the version number less than v2.1.2-2  
 Management IP: 192.168.1.1  
 lan port: LAN1  
 Username: root  
 Password: (none)  
-  
+```
+
 Hope you enjoy using it!  
 
 Thanks to @yichya for the excellent work at https://github.com/yichya/luci-app-xray.  
