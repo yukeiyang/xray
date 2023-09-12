@@ -20,7 +20,7 @@ Thanks to @yichya for its [luci-app-xray](https://github.com/yichya/luci-app-xra
   
 ....................................................................................... 
   
-If the [release version](https://github.com/yukeiyang/openwrt/releases) you use less than v2.1.2-2    
+If the [release version](https://github.com/yukeiyang/openwrt/releases) less than v2.1.2-2    
 Management IP: 192.168.1.1  
 lan port: LAN1  
 Username: root  
