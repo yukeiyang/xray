@@ -13,12 +13,12 @@ Password: (none)
 
 Hope you enjoy using it!  
 
-Thanks to @yichya for the excellent work at https://github.com/yichya/luci-app-xray.  
+Thanks to @yichya for the excellent work at [luci-app-xray](https://github.com/yichya/luci-app-xray).  
 
    
   
   
-...........................................................................  
+.................................................................................. 
   
 Plus, if the [release version](https://github.com/yukeiyang/openwrt/releases) less than v2.1.2-2    
 Management IP: 192.168.1.1  
