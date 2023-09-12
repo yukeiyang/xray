@@ -14,7 +14,7 @@ Password: (none)
 
 Hope you enjoy using it!  
 
-Thanks to @yichya for its [luci-app-xray](https://github.com/yichya/luci-app-xray).  
+Thanks to @yichya for [luci-app-xray](https://github.com/yichya/luci-app-xray).  
 
    
   
