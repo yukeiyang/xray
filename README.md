@@ -8,7 +8,7 @@ After flashing this firmware, you need to adjust and switch lan/wan ports accord
 
 Management IP: 192.168.2.1  
 wan port: LAN1  
-lan port: LAN2 LAN3 LAN4   
+lan port: LAN2 LAN3 ...     
 Username: root  
 Password: (none)  
 
