@@ -21,7 +21,7 @@ Thanks to @yichya for [luci-app-xray](https://github.com/yichya/luci-app-xray).
   
 ............................................................................................  
   
-If the [release version](https://github.com/yukeiyang/openwrt/releases) less than v2.1.2-2, then:       
+If the [release version](https://github.com/yukeiyang/openwrt/releases) less than v2.1.2.2, then:       
   
 Management IP: 192.168.1.1  
 lan port: LAN1  
