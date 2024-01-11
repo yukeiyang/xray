@@ -6,7 +6,7 @@ It is really fucking clean, containing luci-app-homeproxy and its dependences on
   
 You can choose `Keep settings and retain the current configuration` during the `Flash Image` when you flash this firmware.  
   
-Or，flash the image as brand new one.  
+Or，flash the image as a brand new one.  
 
 Management IP: 192.168.2.1  
 wan port: LAN1  
