@@ -6,7 +6,7 @@ It is clean, containing extra 6 packages only: luci, irqbalance, xray-core, v2ra
   
 When flash this firmware, you can choose `Keep settings and retain the current configuration` during the `Flash Image`.  
   
-Or，you can flash the image as brand new one.  
+Or，flash the image as brand new one.  
 
 Management IP: 192.168.2.1  
 wan port: LAN1  
