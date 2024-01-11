@@ -4,7 +4,7 @@ This is a firmware based on openwrt x86-64, with luci-app-xray plugin integrated
   
 It is really fucking clean, containing luci-app-homeproxy and its dependences only. I hate one firmware installed lots of complicated IPKs. That's why I create this firmware.
   
-When flash this firmware, you can choose `Keep settings and retain the current configuration` during the `Flash Image`.  
+You can choose `Keep settings and retain the current configuration` during the `Flash Image` when you flash this firmware.  
   
 Or，flash the image as brand new one.  
 
