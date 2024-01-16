@@ -9,8 +9,8 @@ You can choose `Keep settings and retain the current configuration` during the `
 Or，you can flash the image as a brand new one.  
 
 Management IP: 192.168.2.1  
-wan port: LAN1  
-lan port: LAN2 LAN3 LAN4 ...     
+Wan Port: LAN1  
+Lan Port: LAN2 LAN3 LAN4 ...     
 Username: root  
 Password: (none)  
 
