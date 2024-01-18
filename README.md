@@ -2,7 +2,7 @@
 
 This is a firmware based on openwrt x86-64, with luci-app-xray plugin integrated.  
   
-It is really fucking clean, containing luci-app-xray & dependences only. I really hate one firmware installed different kinds of IPKs, that's why I create this firmware.
+It is really fucking clean, containing luci-app-xray & dependences only. I really hate one firmware installed lot kinds of IPKs, that's why I create this firmware.
   
 You can choose `Keep settings and retain the current configuration` during the `Flash Image` when you flash this firmware.  
   
