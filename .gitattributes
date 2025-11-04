@@ -1,2 +1,102 @@
+# ===============================
+# 文本文件统一提交为 LF
+# ===============================
+
+# 脚本文件
+*.sh        text eol=lf
+*.bat       text eol=lf
+*.cmd       text eol=lf
+*.ps1       text eol=lf
+
+# Python / Ruby / Perl / PHP
+*.py        text eol=lf
+*.rb        text eol=lf
+*.pl        text eol=lf
+*.pm        text eol=lf
+*.php       text eol=lf
+
+# C / C++ / C# / Go / Rust / Java / Kotlin
+*.c         text eol=lf
+*.cpp       text eol=lf
+*.h         text eol=lf
+*.hpp       text eol=lf
+*.cs        text eol=lf
+*.go        text eol=lf
+*.rs        text eol=lf
+*.java      text eol=lf
+*.kt        text eol=lf
+
+# 前端 / Web
+*.html      text eol=lf
+*.css       text eol=lf
+*.scss      text eol=lf
+*.js        text eol=lf
+*.ts        text eol=lf
+*.jsx       text eol=lf
+*.tsx       text eol=lf
+*.vue       text eol=lf
+*.json      text eol=lf
+*.yaml      text eol=lf
+*.yml       text eol=lf
+*.xml       text eol=lf
+
+# 文档
+*.md        text eol=lf
+*.txt       text eol=lf
+*.rst       text eol=lf
+*.csv       text eol=lf
+*.log       text eol=lf
+
+# 配置 / 环境
+*.ini       text eol=lf
+*.cfg       text eol=lf
+*.env       text eol=lf
+*.conf      text eol=lf
+*.properties text eol=lf
+*.toml      text eol=lf
+
+# CI / 自动化
+.github/workflows/*.yml text eol=lf
+Dockerfile  text eol=lf
+
+# ===============================
+# 二进制文件
+# ===============================
+*.png       binary
+*.jpg       binary
+*.jpeg      binary
+*.gif       binary
+*.bmp       binary
+*.ico       binary
+*.pdf       binary
+*.zip       binary
+*.tar       binary
+*.gz        binary
+*.7z        binary
+*.rar       binary
+*.exe       binary
+*.msi       binary
+*.dll       binary
+*.so        binary
+*.dylib     binary
+*.jar       binary
+*.class     binary
+*.o         binary
+*.a         binary
+*.lib       binary
+*.pdb       binary
+*.ttf       binary
+*.woff      binary
+*.woff2     binary
+*.eot       binary
+*.mp3       binary
+*.wav       binary
+*.mp4       binary
+*.mov       binary
+*.avi       binary
+*.mkv       binary
+# ===============================
+# 用户自定义配置 (User Custom)
+# ===============================
 # Auto detect text files and perform LF normalization
 * text=auto
