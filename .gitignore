@@ -93,6 +93,7 @@ build/
 out/
 tmp/
 temp/
+.archive/
 
 # ===============================
 # Virtual Environment
