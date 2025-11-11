@@ -41,7 +41,7 @@
 *.xml       text eol=lf
 
 # 文档
-*.md        text eol=lf
+*.md        text eol=crlf
 *.txt       text eol=lf
 *.rst       text eol=lf
 *.csv       text eol=lf
