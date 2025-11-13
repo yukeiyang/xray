@@ -116,6 +116,7 @@ ENV/
 .env.local
 *.local.py
 *_local.py
+*.local.json
 *.pem
 *.key
 *.crt
@@ -132,3 +133,6 @@ ENV/
 
 # Package managers
 *.lock
+
+# Windows null file (sometimes created by misconfigured commands)
+nul
