@@ -136,6 +136,15 @@ ENV/
 # Windows null file (sometimes created by misconfigured commands)
 nul
 
+# MCP Configuration (local paths)
+.mcp.json
+
+# Antigravity Configuration (runtime generated)
+.agent/
+
+# Claude Code temporary files (cwd markers)
+tmpclaude-*
+
 # ===============================
 # 用户自定义配置 (User Custom)
 # ===============================
