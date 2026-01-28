@@ -145,6 +145,9 @@ nul
 # Claude Code temporary files (cwd markers)
 tmpclaude-*
 
+# Claude Code workflow_state file
+.workflow_state
+
 # ===============================
 # 用户自定义配置 (User Custom)
 # ===============================
