@@ -54,6 +54,7 @@ wheels/
 .Python
 develop-eggs/
 .installed.cfg
+lib/
 lib64/
 
 # Node.js
@@ -148,6 +149,10 @@ tmpclaude-*
 
 # Claude Code workflow_state file
 .workflow_state
+
+# ===============================
+# 用户自定义配置 (User Custom)
+# ===============================
 
 # ===============================
 # 用户自定义配置 (User Custom)
