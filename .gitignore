@@ -150,10 +150,13 @@ tmpclaude-*
 # Claude Code workflow_state file
 .workflow_state
 
+# ship --auto state files by AI CLI 
+.ship_auto_state.json
+
+
 # ===============================
 # 用户自定义配置 (User Custom)
 # ===============================
-
 # ===============================
 # 用户自定义配置 (User Custom)
 # ===============================
