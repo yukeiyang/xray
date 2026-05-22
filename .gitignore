@@ -113,16 +113,38 @@ ENV/
 *.db
 
 # ===============================
-# Environment & secrets
+# Environment & secrets - secrets/keys/passwords 明文不进 git
 # ===============================
-.env.local
-*.local.py
-*_local.py
-*.local.json
+.env
+.env.*
+!.env.example
+!.env.template
+!.env.sample
+!.env.dist
 *.pem
 *.key
 *.crt
 *.p12
+*.pfx
+*.keystore
+*.jks
+*.pvk
+*.snk
+*.ppk
+*.p8
+*.kdbx
+id_rsa
+id_ed25519
+id_dsa
+id_ecdsa
+.netrc
+.npmrc
+.pypirc
+*.tfvars
+*.tfvars.json
+*.local.py
+*_local.py
+*.local.json
 
 # ===============================
 # Misc
@@ -151,9 +173,8 @@ tmpclaude-*
 # Claude Code workflow_state file
 .workflow_state
 
-# ship --auto state files by AI CLI 
+# ship --auto state files by AI CLI
 .ship_auto_state.json
-
 
 # ===============================
 # 用户自定义配置 (User Custom)
