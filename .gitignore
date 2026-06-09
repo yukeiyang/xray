@@ -167,6 +167,9 @@ nul
 # Antigravity Configuration (runtime generated)
 .agent/
 
+# Multi-agent advisory lock (implicit-lock coordination; *.lock 不匹配 .agent-lock)
+.agent-lock
+
 # Claude Code temporary files (cwd markers)
 tmpclaude-*
 
