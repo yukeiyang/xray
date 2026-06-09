@@ -95,8 +95,8 @@ Dockerfile  text eol=lf
 *.mov       binary
 *.avi       binary
 *.mkv       binary
+
 # ===============================
 # 用户自定义配置 (User Custom)
 # ===============================
-# Auto detect text files and perform LF normalization
 * text=auto
