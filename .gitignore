@@ -179,3 +179,6 @@ tmpclaude-*
 # ship --auto state files by AI CLI
 .ship_auto_state.json
 .ship_auto_step_result.json
+
+# Codegraph
+.codegraph/
