@@ -163,6 +163,7 @@ nul
 
 # MCP Configuration (local paths)
 .mcp.json
+.gitconfig.codex
 
 # Antigravity Configuration (runtime generated)
 .agent/
@@ -178,6 +179,7 @@ tmpclaude-*
 
 # ship --auto state files by AI CLI
 .ship_auto_state.json
+.ship_auto_batch_queue.json
 .ship_auto_step_result.json
 
 # Codegraph
